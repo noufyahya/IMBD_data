@@ -9,7 +9,7 @@ import pandas as pd
 
 f = csv.writer(open("imbd3.csv", "w"))
 # Write column headers as the first line
-f.writerow(["Movie-Title", "Director_stars", "Value"])
+f.writerow(["Movie-Title", "Director_stars"])
 
 
 # the code
