@@ -1,6 +1,6 @@
-# IMBD_data
+## IMBD_data
 
-### The data set sorted by popularity from year (2015 - end of 2020) at the point of making the code, if you take the code and changes the website it will bring you the variables:
+### Data scraped from IMBD using Beautiful Soup library by Python, sorted by popularity of the movie. 
 **1. Movie name**
 
 **2. Rating**
